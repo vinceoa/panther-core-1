@@ -37,7 +37,7 @@
     "lodash": "4.17.21",
     "migrate-mongo": "=8.1.1",
     "minimist": "1.2.6",
-    "mongoose": "=5.13.14",
+    "mongoose": "=5.13.15",
     "multiparty": "^4.1.1",
     "nconf": "0.12.0",
     "needle": "^1.6.0",
